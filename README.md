@@ -23,5 +23,14 @@
 3.using this command to run our webapp
             
             "streamlit run app.py"
+
+
+## some trained models are too large .so, here I have shared my drive link .you can refer and download it.
+
+            https://drive.google.com/drive/folders/1uvgdeFO1zhgPkxr0H1kuggpFw1t7LZum?usp=sharing
+
+            
+
+   
             
            
